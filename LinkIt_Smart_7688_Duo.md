@@ -22,6 +22,9 @@ Only one controller can be the main controller of the board at a time.
     * Only one controller can be the main controller of the board at a time.
     * This board is only a part of MediaTek LinkItTM Smart 7688 platform which includes other development boards.
 
+    
+[![](https://raw.githubusercontent.com/SeeedDocument/Seeed-WiKi/master/docs/images/get_one_now.png)](https://www.seeedstudio.com/LinkIt-Smart-7688-Duo-p-2574.html)  
+
 ##Features
 
 * 580 MHz MIPS CPU
@@ -114,8 +117,9 @@ Only one controller can be the main controller of the board at a time.
 
 **4.**Next, you will need to connect the Serial to USB cable to LinkIt Smart 7688's UART pins as shown in the following table:
 
-|-----------------------------------|--------------------------------------------------------|
+
 | Pin on USB adapter |	Corresponding Pin to be connected on LinkIt Smart 7688 |
+|-----------------------------------|--------------------------------------------------------|
 | Pin RX	| Pin 8 |
 | Pin TX	| Pin 9 |
 | Pin GND |	Pin GND |
